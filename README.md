@@ -1,4 +1,4 @@
 ### Hello 👋
 
-I love coding in Java and Implementing various open source frameworks in Java based applications.
+I'm a Backend Programmer and a Tech enthusiast. 
 
