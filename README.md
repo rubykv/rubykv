@@ -1,6 +1,9 @@
 ### Hello 👋
 
-https://github.com/rubykv/rubykv/blob/main/linkedin.png 
+<a href="https://www.linkedin.com/in/ruby-k-v-29004a22/"><img src="linkedin.png" alt="drawing" width="40"/></a>
+<a href="https://medium.com/@rubyshiv"><img src="medium.png" alt="drawing" width="40"/></a>
+<a href="https://twitter.com/rubyshiv"><img src="twitter.png" alt="drawing" width="40"/></a>
+
 
 I'm a Backend Programmer and Tech Blogger. I write in medium https://medium.com/@rubyshiv about my tech journey and life experiences. 
 
