@@ -1,6 +1,6 @@
 ### Hello 👋
 
-
+https://github.com/rubykv/rubykv/blob/main/linkedin.png 
 
 I'm a Backend Programmer and Tech Blogger. I write in medium https://medium.com/@rubyshiv about my tech journey and life experiences. 
 
