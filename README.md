@@ -1,4 +1,4 @@
-### Ruby K V - Freelancer (Programmer, Writer) | Nomad | Multipotentialite
+### Ruby K V - Freelancer (Programmer, Writer) 
 #
 <a href="https://www.linkedin.com/in/ruby-k-v-29004a22/"><img src="linkedin.png" alt="drawing" width="40" hspace="20" /></a>
 <a href="https://medium.com/@rubyshiv"><img src="medium1.png" alt="drawing" width="40" hspace="20" /></a>
