@@ -1,4 +1,4 @@
-### Ruby K V ::: Programmer - Java , JavaScript | Backend System Designing
+### Ruby K V ::: Programmer - Java , JavaScript | Tech Enthusiast
 #
 <a href="https://www.linkedin.com/in/ruby-k-v-29004a22/"><img src="linkedin.png" alt="drawing" width="40" hspace="20" /></a>
 <a href="https://medium.com/@rubyshiv"><img src="medium1.png" alt="drawing" width="40" hspace="20" /></a>
