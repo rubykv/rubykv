@@ -3,7 +3,6 @@
 <a href="https://www.linkedin.com/in/ruby-k-v-29004a22/"><img src="linkedin.png" alt="drawing" width="40" hspace="20" /></a>
 <a href="https://medium.com/@rubyshiv"><img src="medium1.png" alt="drawing" width="40" hspace="20" /></a>
 <a href="https://twitter.com/rubyshiv"><img src="twitter.png" alt="drawing" width="40" hspace="20" /></a>
-<a href="https://www.instagram.com/ruby.k.v/"><img src="insta.png" alt="drawing" width="40" hspace="20" /></a>
 ##
 
 I have close to 11 years of experience working for various MNC's as a Java Programmer and Designer. 
