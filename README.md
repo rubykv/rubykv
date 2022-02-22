@@ -11,8 +11,7 @@
 #
 => Check <a href="https://rubyshiv.medium.com/under-the-spring-cloud-umbrella-7cd2879f3a58" target="_blank">List of Tutorials</a> to go through the available tutorials
 #
-Support the Future of My Work With as Little as a Dollar </br></br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/picashiv" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 
 
 
