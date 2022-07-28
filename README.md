@@ -7,12 +7,9 @@
 
 => Experience of over a decade, working on Enterprise / StartUp IT solutions. 
 #
-=> Check <a href="https://github.com/rubykv/code-examples">code-examples repository</a> for various backend framework solutions in Java and Java-based frameworks.
+=> Checkout my Tutorials on Medium <a href="https://rubyshiv.medium.com/under-the-spring-cloud-umbrella-7cd2879f3a58" target="_blank">List of Tutorials</a> 
 #
-=> Check <a href="https://rubyshiv.medium.com/under-the-spring-cloud-umbrella-7cd2879f3a58" target="_blank">List of Tutorials</a> to go through the available tutorials
-#
-=> Check <a href="https://github.com/rubykv/go-examples">go-examples repository</a> for sample go programs.
-#
+=> Checkout my Products on Gumroad <a href="https://rubyshiv.gumroad.com/" target="_blank"> Explore Products</a> 
 
 
 
