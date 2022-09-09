@@ -44,10 +44,7 @@ Copywriter, Technical Content Creator and Programmer based out of USA.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubykv&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-:fire: Most Popular Repo:
 
-
-[![Most Popular Repo](https://github-readme-stats.vercel.app/api/pin/?username=rubykv&repo=code-examples)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
