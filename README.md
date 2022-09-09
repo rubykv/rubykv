@@ -14,9 +14,9 @@
 </div>
 
 ---
-### :woman_technologist: Ruby K V  -  Learning | Building | Writing 
+### :woman_technologist: Ruby K V  
 
-I'm a Copywriter, Technical Content Creator and Programmer based out of USA.
+Copywriter, Technical Content Creator and Programmer based out of USA.
 
 - I'm a Software Architect & Developer with experience of over a decade, working on Enterprise / StartUp IT solutions. 
 
