@@ -45,8 +45,7 @@ Copywriter, Technical Content Creator and Programmer based out of USA.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubykv&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
----
-<a href="https://app.daily.dev/rubyvalappil"><img src="https://api.daily.dev/devcards/f2d74142566c43a7a74e9ac6abf57675.png?r=j2i" width="400" alt="Ruby Valappil's Dev Card"/></a>
+
 
 
 
