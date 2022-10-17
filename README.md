@@ -22,7 +22,7 @@ Copywriter, Technical Content Creator and Programmer based out of USA.
 
 - I'm a multiple time top writer (topic-Java) on Medium 
 
-- I create technical content and write copy for Tech SMBs. Want to discuss an interesting project? Reach out on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ruby-k-v-29004a22/)
+- I create technical content for Tech SMBs. Want to discuss an interesting project? Reach out on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ruby-k-v-29004a22/)
 
 - I create digital products for Techies on Gumroad  [![Gumroad Badge](https://img.shields.io/badge/-Gumroad-blue?style=flat&logo=Gumroad&logoColor=white)](https://rubyshiv.gumroad.com/)
 
