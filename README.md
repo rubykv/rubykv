@@ -16,7 +16,7 @@
 ---
 ### :woman_technologist: Ruby K V  
 
-Copywriter, Technical Content Creator and Programmer based out of USA.
+Programmer & Technical Content Creator based out of USA.
 
 - I'm a Software Architect & Developer with experience of over a decade, working on Enterprise / StartUp IT solutions. 
 
