@@ -37,7 +37,7 @@ Programmer & Technical Content Creator based out of USA.
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="Git" **alt="graphql" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="Intellij" **alt="Git" width="40" height="40"/>&nbsp;&nbsp;
-    <img src=" https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Git" **alt="Nginx" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" **alt="Nginx" width="40" height="40"/>
 </div>
 
 
