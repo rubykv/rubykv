@@ -15,7 +15,7 @@
 ---
 ### :woman_technologist: Ruby K V  
 
-Programmer & Technical Content Creator based out of USA.
+Software Consultant & Technical Content Creator based out of USA.
 
 - I'm a Software Architect & Developer with experience of over a decade, working on Enterprise / StartUp IT solutions. 
 
@@ -37,6 +37,7 @@ Programmer & Technical Content Creator based out of USA.
     <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="Graphql" **alt="graphql" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="Intellij" **alt="Git" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" **alt="Nginx" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" **alt="Redis" width="40" height="40"/>
 </div>
 
 
