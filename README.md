@@ -21,9 +21,11 @@ Software Consultant & Technical Content Creator based out of USA.
 
 - I'm a multiple time top writer (topic-Java) on Medium 
 
-- I create technical content for Tech SMBs. Want to discuss an interesting project? Reach out on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ruby-k-v-29004a22/)
+- I used to write technical content for Tech SMBs but not anymore.
 
-- I create digital products for Techies on Gumroad  [![Gumroad Badge](https://img.shields.io/badge/-Gumroad-blue?style=flat&logo=Gumroad&logoColor=white)](https://rubyshiv.gumroad.com/)
+- Want to discuss an interesting project? Reach out on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ruby-k-v-29004a22/)
+
+- I sometimes create digital products for Techies on Gumroad  [![Gumroad Badge](https://img.shields.io/badge/-Gumroad-blue?style=flat&logo=Gumroad&logoColor=white)](https://rubyshiv.gumroad.com/)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
